@@ -16,13 +16,20 @@ coreschema==0.0.4
 diff-match-patch==20121119
 
 Django==2.0.1
+
 django-cors-headers==2.4.0
+
 django-crispy-forms==1.7.2
+
 django-filter==2.0.0
+
 django-formtools==2.1
+
 django-guardian==1.4.9
+
 django-import-export==1.0.1
-django-rest-framework==0.1.0
+
+django-rest-framework==0.1.0 
 django-reversion==2.0.10
 djangorestframework==3.8.2
 et-xmlfile==1.0.1
