@@ -1,5 +1,6 @@
 # keyword_analyze
-django-vue
+
+django-vue整合项目
 
 下载项目，导入pycharm，分别执行makemigrations， migrate命令
 安装依赖：
