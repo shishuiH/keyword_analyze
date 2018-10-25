@@ -4,11 +4,17 @@ django-vue
 下载项目，导入pycharm，分别执行makemigrations， migrate命令
 安装依赖：
 certifi==2018.8.24
+
 cffi==1.11.5
+
 chardet==3.0.4
+
 coreapi==2.3.3
+
 coreschema==0.0.4
+
 diff-match-patch==20121119
+
 Django==2.0.1
 django-cors-headers==2.4.0
 django-crispy-forms==1.7.2
